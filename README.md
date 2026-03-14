@@ -1,7 +1,23 @@
 # C_Cpp-Notebooks by Sagar Biswas
 
-[![Markdown Lint](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml) [![Link Check](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml) [![Pages Deploy](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml)  
-[![Release](https://img.shields.io/github/v/release/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Languages](https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks)
+<div align="right">
+
+[![Markdown Lint](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml) 
+&nbsp;
+[![Link Check](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml) 
+&nbsp;
+[![Pages Deploy](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml)  
+[![Release](https://img.shields.io/github/v/release/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/releases) 
+&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
+&nbsp;
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/stargazers)
+&nbsp;
+[![Languages](https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks)
+
+</div>
 
 Curated C & C++ study hub — annotated PDFs, header-file references, seven runnable projects, and guided notebooks. Includes a dark GitHub Pages site with client-side search. Learn systems-level C/C++ via worked examples, reference headers, and project walkthroughs.
 
