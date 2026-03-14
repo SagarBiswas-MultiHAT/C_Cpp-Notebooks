@@ -138,5 +138,17 @@
             "cli",
             "c++"
         ]
+    },
+    {
+        "title": "Tricks Folder",
+        "type": "Tricks",
+        "url": "tricks.html",
+        "keywords": [
+            "recursion",
+            "recipe",
+            "tips",
+            "tricks",
+            "shortcuts"
+        ]
     }
 ]

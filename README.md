@@ -1,5 +1,10 @@
 # C_Cpp-Notebooks by Sagar Biswas
 
+[![Markdown Lint](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/markdown-lint.yml) [![Link Check](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml/badge.svg)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/link-check.yml) [![Pages Deploy](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/actions/workflows/pages-deploy.yml)  
+[![Release](https://img.shields.io/github/v/release/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks/releases) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Languages](https://img.shields.io/github/languages/top/SagarBiswas-MultiHAT/C_Cpp-Notebooks)](https://github.com/SagarBiswas-MultiHAT/C_Cpp-Notebooks)
+
+Curated C & C++ study hub — annotated PDFs, header-file references, seven runnable projects, and guided notebooks. Includes a dark GitHub Pages site with client-side search. Learn systems-level C/C++ via worked examples, reference headers, and project walkthroughs.
+
 This repository is a complete study companion for learning C and C++ in a practical, student-friendly way. The goal of this README is simple: if you read this file fully, you should understand what every notebook and project contains, what topics are covered, and how to study them in the right order.
 
 ## Table of Contents
@@ -299,6 +304,13 @@ These projects complement the notebooks and show practical implementation of C/C
   - User-defined password length.
   - Mixed uppercase, lowercase, numbers, and special symbols.
   - Good beginner project for randomness and basic security concepts.
+
+## Tricks Folder (Recursion Recipes & Shortcuts)
+
+- Location: `/tricks` directory in the repo and the dedicated [Tricks](docs/pages/tricks.html) page on GitHub Pages.
+- Contents: recursive base-case design, tail recursion hints, stack-diagram checklists, and other helper notes that keep the notebooks clean.
+- Use it when you need a quick refresher while hitting project edge cases or reviewing recursion-heavy examples.
+- Everything in this folder is a lightweight, printable recipe (current entry: [`recursion.pdf`](tricks/recursion.pdf)).
 
 ## Suggested Weekly Study Plan
 
