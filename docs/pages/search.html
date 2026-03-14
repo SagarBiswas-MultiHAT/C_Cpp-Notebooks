@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Search | C & C++ Notebooks</title>
+    <meta name="description" content="Search notebooks, header references, and projects.">
+    <link rel="stylesheet" href="../assets/css/main.css">
+</head>
+
+<body>
+    <div class="scanline" aria-hidden="true"></div>
+    <header class="topbar">
+        <a class="brand" href="../index.html">C & C++ Notebooks</a>
+        <button class="menu-btn" aria-label="Toggle menu">Menu</button>
+        <nav class="main-nav">
+            <a href="notebooks.html">Main Notebooks</a>
+            <a href="headers.html">Header Files [C]</a>
+            <a href="projects.html">Projects</a>
+            <a href="search.html">Search</a>
+            <a href="../../README.md">README</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="panel reveal">
+            <div class="section-heading">
+                <h2>Quick Search</h2>
+                <span class="badge">Client Side</span>
+            </div>
+            <p class="muted">Search by title, type, topic, or keyword across notebooks, header references, and all
+                projects.</p>
+            <div class="search-wrap">
+                <input id="searchInput" type="text" placeholder="Try: pointer, STL, securebank, ctype"
+                    aria-label="Search content">
+            </div>
+            <div id="searchResults" class="search-results" aria-live="polite"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>Fast local index search. No backend required.</p>
+    </footer>
+
+    <script src="../assets/js/main.js"></script>
+    <script src="../assets/js/search.js"></script>
+</body>
+
+</html>

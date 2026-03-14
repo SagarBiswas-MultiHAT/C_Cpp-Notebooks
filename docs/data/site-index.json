@@ -1,0 +1,142 @@
+[
+    {
+        "title": "C Programming Language",
+        "type": "Main Notebook",
+        "url": "../../C%20Programming%20Language.pdf",
+        "keywords": [
+            "c",
+            "pointer",
+            "array",
+            "string",
+            "file i/o",
+            "dynamic memory",
+            "recursion"
+        ]
+    },
+    {
+        "title": "DataTypes_inCpp - Data Structures",
+        "type": "Main Notebook",
+        "url": "../../DataTypes_inCpp-DATA_STRUCTURES.pdf",
+        "keywords": [
+            "c++",
+            "stl",
+            "vector",
+            "map",
+            "set",
+            "queue",
+            "priority_queue",
+            "big-o"
+        ]
+    },
+    {
+        "title": "ctype.h Header File in C",
+        "type": "Header Quick Reference",
+        "url": "../../Header%20Files%20%5BC%5D/ctype.h%20Header%20File%20in%20C.pdf",
+        "keywords": [
+            "ctype",
+            "isalnum",
+            "isalpha",
+            "isdigit",
+            "tolower",
+            "toupper"
+        ]
+    },
+    {
+        "title": "string.h Header File in C",
+        "type": "Header Quick Reference",
+        "url": "../../Header%20Files%20%5BC%5D/string.h%20Header%20File%20in%20C.pdf",
+        "keywords": [
+            "string",
+            "strcpy",
+            "strncpy",
+            "strcat",
+            "strcmp",
+            "strncmp"
+        ]
+    },
+    {
+        "title": "SecureBank-CLI",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/SecureBank-CLI",
+        "keywords": [
+            "banking",
+            "c++17",
+            "json",
+            "jsonl",
+            "docker",
+            "sanitizer"
+        ]
+    },
+    {
+        "title": "Contact-Management-System",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/Contact-Management-System",
+        "keywords": [
+            "c11",
+            "sqlite",
+            "argon2id",
+            "contacts",
+            "cli",
+            "backup"
+        ]
+    },
+    {
+        "title": "CustomerSlip-CLI",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/CustomerSlip-CLI",
+        "keywords": [
+            "receipt",
+            "csv",
+            "jsonl",
+            "c++17",
+            "cmake"
+        ]
+    },
+    {
+        "title": "AirportDesk-Assistant",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/AirportDesk-Assistant",
+        "keywords": [
+            "validation",
+            "parsing",
+            "csv",
+            "airport",
+            "c++"
+        ]
+    },
+    {
+        "title": "Impress-Crush-Cpp-ASCII",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/Impress-Crush-Cpp-ASCII",
+        "keywords": [
+            "ascii",
+            "image",
+            "multithreading",
+            "gamma",
+            "c++"
+        ]
+    },
+    {
+        "title": "competitive_programming-codeforce",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/competitive_programming-codeforce",
+        "keywords": [
+            "codeforces",
+            "beginner",
+            "algorithms",
+            "c++"
+        ]
+    },
+    {
+        "title": "RandomPasswordGeneratorCpp",
+        "type": "Project",
+        "url": "https://github.com/SagarBiswas-MultiHAT/RandomPasswordGeneratorCpp",
+        "keywords": [
+            "password",
+            "security",
+            "random",
+            "cli",
+            "c++"
+        ]
+    }
+]
