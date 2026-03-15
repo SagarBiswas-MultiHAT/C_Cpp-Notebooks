@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>C and C++ Notebooks - Sagar Biswas</title>
+  <id>https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/feed.xml</id>
+  <updated>2026-03-15T00:00:00Z</updated>
+  <link href="https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/feed.xml" rel="self" />
+  <link href="https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/" />
+  <author>
+    <name>Sagar Biswas</name>
+  </author>
+  <entry>
+    <title>C Programming Tutorial and C++ Notes Notebook</title>
+    <id>https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/</id>
+    <link href="https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/" />
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary>C programming tutorial notes and C++ notebook content with headers, projects, and search pages.</summary>
+  </entry>
+</feed>
