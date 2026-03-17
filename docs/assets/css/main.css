@@ -160,7 +160,7 @@ input:focus-visible {
 main {
   position: relative;
   z-index: 1;
-  width: min(1140px, 92vw);
+  width: 95%;
   margin: 1.4rem auto 2.2rem;
 }
 
