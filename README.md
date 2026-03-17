@@ -1,5 +1,5 @@
 ---
-title: "C Programming Tutorial - C++ Notes and Project Examples"
+page_title: "C Programming Tutorial - C++ Notes and Project Examples"
 description: "C programming tutorial and C++ notes with beginner examples, header references, and CLI project walkthroughs for practical learning."
 date: "2026-03-15"
 tags: [c, cpp, dsa, programming, tutorial]
@@ -12,7 +12,7 @@ canonical_url: "https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/"
 
 C programming tutorial repository with C++ notes, data-structure concepts, and CLI project examples. The notebooks and supporting pages are structured for step-by-step learning from fundamentals to practical implementation.
 
-Live site: https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/
+Live site: [C_Cpp-Notebooks on GitHub Pages](https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/)
 
 ![GitHub Pages](https://img.shields.io/badge/pages-live-blue)
 ![C](https://img.shields.io/badge/C-language-blue)
