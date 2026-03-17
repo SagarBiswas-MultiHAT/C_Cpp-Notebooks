@@ -1,5 +1,5 @@
 ---
-page_title: "C Programming Tutorial - C++ Notes and Project Examples"
+title: "C Programming Tutorial - C++ Notes and Project Examples"
 description: "C programming tutorial and C++ notes with beginner examples, header references, and CLI project walkthroughs for practical learning."
 date: "2026-03-15"
 tags: [c, cpp, dsa, programming, tutorial]
@@ -8,7 +8,7 @@ author: "Sagar Biswas"
 canonical_url: "https://sagarbiswas-multihat.github.io/C_Cpp-Notebooks/"
 ---
 
-# C Programming Tutorial and C++ Notes Notebook
+## C Programming Tutorial and C++ Notes Notebook
 
 C programming tutorial repository with C++ notes, data-structure concepts, and CLI project examples. The notebooks and supporting pages are structured for step-by-step learning from fundamentals to practical implementation.
 
